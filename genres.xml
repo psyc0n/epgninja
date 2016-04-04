@@ -1,125 +1,104 @@
 <genres>
-<genre type="16" subtype="0">Movie</genre>
-<genre type="32" subtype="0">News</genre>
-<genre type="32" subtype="0">Bus./financial</genre>
-<genre type="32" subtype="0">Community</genre>
-<genre type="32" subtype="0">Consumer</genre>
-<genre type="32" subtype="0">Environment</genre>
-<genre type="32" subtype="0">Interview</genre>
-<genre type="32" subtype="0">Newsmagazine</genre>
-<genre type="32" subtype="0">Public affairs</genre>
-<genre type="32" subtype="0">Politics</genre>
-<genre type="32" subtype="0">Weather</genre>
-<genre type="48" subtype="0">Show</genre>
-<genre type="48" subtype="0">Animated</genre>
-<genre type="48" subtype="0">Anime</genre>
-<genre type="48" subtype="0">Comedy</genre>
-<genre type="48" subtype="0">Comedy-drama</genre>
-<genre type="48" subtype="0">Crime</genre>
-<genre type="48" subtype="0">Crime drama</genre>
-<genre type="48" subtype="0">Drama</genre>
-<genre type="48" subtype="0">Entertainment</genre>
-<genre type="48" subtype="0">Fantasy</genre>
-<genre type="48" subtype="0">Game show</genre>
-<genre type="48" subtype="0">Horror</genre>
-<genre type="48" subtype="0">Miniseries</genre>
-<genre type="48" subtype="0">Mystery</genre>
-<genre type="48" subtype="0">Reality</genre>
-<genre type="48" subtype="0">Romance</genre>
-<genre type="48" subtype="0">Science fiction</genre>
-<genre type="48" subtype="0">Sitcom</genre>
-<genre type="48" subtype="0">Soap</genre>
-<genre type="48" subtype="0">Standup</genre>
-<genre type="48" subtype="0">Action</genre>
-<genre type="48" subtype="0">Adventure</genre>
-<genre type="48" subtype="0">Docudrama</genre>
-<genre type="48" subtype="0">Historical drama</genre>
-<genre type="48" subtype="0">Romance-comedy</genre>
-<genre type="48" subtype="0">Suspense</genre>
-<genre type="48" subtype="0">War</genre>
-<genre type="48" subtype="0">Western</genre>
-<genre type="48" subtype="0">Sports non-event</genre>
-<genre type="48" subtype="0">Sports talk</genre>
-<genre type="48" subtype="0">Auto</genre>
-<genre type="64" subtype="0">Sports event</genre>
-<genre type="64" subtype="0">Auto racing</genre>
-<genre type="64" subtype="0">Baseball</genre>
-<genre type="64" subtype="0">Basketball</genre>
-<genre type="64" subtype="0">Dance</genre>
-<genre type="64" subtype="0">Fishing</genre>
-<genre type="64" subtype="0">Football</genre>
-<genre type="64" subtype="0">Golf</genre>
-<genre type="64" subtype="0">Hockey</genre>
-<genre type="64" subtype="0">Horse</genre>
-<genre type="64" subtype="0">Martial arts</genre>
-<genre type="64" subtype="0">Playoff sports</genre>
-<genre type="64" subtype="0">Pro wrestling</genre>
-<genre type="64" subtype="0">Soccer</genre>
-<genre type="64" subtype="0">Tennis</genre>
-<genre type="16" subtype="0">Movie</genre>
-<genre type="80" subtype="0">Children</genre>
-<genre type="64" subtype="0">Soccer</genre>
-<genre type="64" subtype="0">Hockey</genre>
-<genre type="64" subtype="0">Sports talk</genre>
-<genre type="64" subtype="0">Auto racing</genre>
-<genre type="64" subtype="0">Cricket</genre>
-<genre type="64" subtype="0">Baseball</genre>
-<genre type="64" subtype="0">Basketball</genre>
-<genre type="64" subtype="0">Golf</genre>
-<genre type="64" subtype="0">Boxing</genre>
-<genre type="64" subtype="0">Fishing</genre>
-<genre type="64" subtype="0">Pro wrestling</genre>
-<genre type="64" subtype="0">Rugby</genre>
-<genre type="64" subtype="0">Tennis</genre>
-<genre type="64" subtype="0">Motorcycle racing</genre>
-<genre type="64" subtype="0">Mixed martial arts</genre>
-<genre type="64" subtype="0">Darts</genre>
-<genre type="64" subtype="0">Curling</genre>
-<genre type="64" subtype="0">Football</genre>
-<genre type="64" subtype="0">Drag racing</genre>
-<genre type="80" subtype="0">Children</genre>
-<genre type="80" subtype="0">Children-music</genre>
-<genre type="96" subtype="0">Music</genre>
-<genre type="96" subtype="0">Music special</genre>
-<genre type="96" subtype="0">Musical</genre>
-<genre type="96" subtype="0">Musical comedy</genre>
-<genre type="96" subtype="0">Holiday music special</genre>
-<genre type="112" subtype="0">Art</genre>
-<genre type="128" subtype="0">Talk</genre>
-<genre type="128" subtype="0">Variety</genre>
-<genre type="144" subtype="0">Science</genre>
-<genre type="144" subtype="0">Animals</genre>
-<genre type="144" subtype="0">Biography</genre>
-<genre type="144" subtype="0">Documentary</genre>
-<genre type="144" subtype="0">Educational</genre>
-<genre type="144" subtype="0">Health</genre>
-<genre type="144" subtype="0">History</genre>
-<genre type="144" subtype="0">Law</genre>
-<genre type="144" subtype="0">Medical</genre>
-<genre type="144" subtype="0">Nature</genre>
-<genre type="144" subtype="0">Paranormal</genre>
-<genre type="144" subtype="0">Parenting</genre>
-<genre type="144" subtype="0">Technology</genre>
-<genre type="160" subtype="0">Hobby</genre>
-<genre type="160" subtype="0">Arts/crafts</genre>
-<genre type="160" subtype="0">Collectibles</genre>
-<genre type="160" subtype="0">Computers</genre>
-<genre type="160" subtype="0">Cooking</genre>
-<genre type="160" subtype="0">Dog show</genre>
-<genre type="160" subtype="0">Exercise</genre>
-<genre type="160" subtype="0">Fashion</genre>
-<genre type="160" subtype="0">Gaming</genre>
-<genre type="160" subtype="0">Home improvement</genre>
-<genre type="160" subtype="0">House/garden</genre>
-<genre type="160" subtype="0">How-to</genre>
-<genre type="160" subtype="0">Outdoors</genre>
-<genre type="160" subtype="0">Travel</genre>
-<genre type="176" subtype="0">Special</genre>
-<genre type="176" subtype="0">Anthology</genre>
-<genre type="176" subtype="0">Awards</genre>
-<genre type="176" subtype="0">Fundraiser</genre>
-<genre type="176" subtype="0">Religious</genre>
-<genre type="176" subtype="0">Shopping</genre>
-<genre type="176" subtype="0">Spanish</genre>
-<genre type="176" subtype="0">Self improvement</genre>
+<genre type="16">Movie</genre>
+<genre type="32">News</genre>
+<genre type="32">Bus./financial</genre>
+<genre type="32">Community</genre>
+<genre type="32">Consumer</genre>
+<genre type="32">Environment</genre>
+<genre type="32">Interview</genre>
+<genre type="32">Newsmagazine</genre>
+<genre type="32">Public affairs</genre>
+<genre type="32">Politics</genre>
+<genre type="32">Weather</genre>
+<genre type="48">Show</genre>
+<genre type="48">Animated</genre>
+<genre type="48">Anime</genre>
+<genre type="48">Comedy</genre>
+<genre type="48">Comedy-drama</genre>
+<genre type="48">Crime</genre>
+<genre type="48">Crime drama</genre>
+<genre type="48">Drama</genre>
+<genre type="48">Entertainment</genre>
+<genre type="48">Fantasy</genre>
+<genre type="48">Game show</genre>
+<genre type="48">Horror</genre>
+<genre type="48">Miniseries</genre>
+<genre type="48">Mystery</genre>
+<genre type="48">Reality</genre>
+<genre type="48">Romance</genre>
+<genre type="48">Science fiction</genre>
+<genre type="48">Sitcom</genre>
+<genre type="48">Soap</genre>
+<genre type="48">Standup</genre>
+<genre type="48">Action</genre>
+<genre type="48">Adventure</genre>
+<genre type="48">Docudrama</genre>
+<genre type="48">Historical drama</genre>
+<genre type="48">Romance-comedy</genre>
+<genre type="48">Suspense</genre>
+<genre type="48">War</genre>
+<genre type="48">Western</genre>
+<genre type="48">Sports non-event</genre>
+<genre type="48">Sports talk</genre>
+<genre type="48">Auto</genre>
+<genre type="64">Sports event</genre>
+<genre type="64">Auto racing</genre>
+<genre type="64">Baseball</genre>
+<genre type="64">Basketball</genre>
+<genre type="64">Dance</genre>
+<genre type="64">Fishing</genre>
+<genre type="64">Football</genre>
+<genre type="64">Golf</genre>
+<genre type="64">Hockey</genre>
+<genre type="64">Horse</genre>
+<genre type="64">Martial arts</genre>
+<genre type="64">Playoff sports</genre>
+<genre type="64">Pro wrestling</genre>
+<genre type="64">Soccer</genre>
+<genre type="64">Tennis</genre>
+<genre type="80">Children</genre>
+<genre type="80">Children-music</genre>
+<genre type="96">Music</genre>
+<genre type="96">Music special</genre>
+<genre type="96">Musical</genre>
+<genre type="96">Musical comedy</genre>
+<genre type="96">Holiday music special</genre>
+<genre type="112">Art</genre>
+<genre type="128">Talk</genre>
+<genre type="128">Variety</genre>
+<genre type="144">Science</genre>
+<genre type="144">Animals</genre>
+<genre type="144">Biography</genre>
+<genre type="144">Documentary</genre>
+<genre type="144">Educational</genre>
+<genre type="144">Health</genre>
+<genre type="144">History</genre>
+<genre type="144">Law</genre>
+<genre type="144">Medical</genre>
+<genre type="144">Nature</genre>
+<genre type="144">Paranormal</genre>
+<genre type="144">Parenting</genre>
+<genre type="144">Technology</genre>
+<genre type="160">Hobby</genre>
+<genre type="160">Arts/crafts</genre>
+<genre type="160">Collectibles</genre>
+<genre type="160">Computers</genre>
+<genre type="160">Cooking</genre>
+<genre type="160">Dog show</genre>
+<genre type="160">Exercise</genre>
+<genre type="160">Fashion</genre>
+<genre type="160">Gaming</genre>
+<genre type="160">Home improvement</genre>
+<genre type="160">House/garden</genre>
+<genre type="160">How-to</genre>
+<genre type="160">Outdoors</genre>
+<genre type="160">Travel</genre>
+<genre type="176">Special</genre>
+<genre type="176">Anthology</genre>
+<genre type="176">Awards</genre>
+<genre type="176">Fundraiser</genre>
+<genre type="176">Religious</genre>
+<genre type="176">Shopping</genre>
+<genre type="176">Spanish</genre>
+<genre type="176">Self improvement</genre>
 </genres)
