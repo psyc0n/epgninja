@@ -1,7 +1,6 @@
 <genres>
 	<genre type="16">Movie</genre>
 	<genre type="32">News</genre>
-	<genre type="32">Bus./financial</genre>
 	<genre type="32">Community</genre>
 	<genre type="32">Consumer</genre>
 	<genre type="32">Environment</genre>
@@ -80,7 +79,6 @@
 	<genre type="144">Parenting</genre>
 	<genre type="144">Technology</genre>
 	<genre type="160">Hobby</genre>
-	<genre type="160">Arts/crafts</genre>
 	<genre type="160">Collectibles</genre>
 	<genre type="160">Computers</genre>
 	<genre type="160">Cooking</genre>
@@ -89,7 +87,6 @@
 	<genre type="160">Fashion</genre>
 	<genre type="160">Gaming</genre>
 	<genre type="160">Home improvement</genre>
-	<genre type="160">House/garden</genre>
 	<genre type="160">How-to</genre>
 	<genre type="160">Outdoors</genre>
 	<genre type="160">Travel</genre>
