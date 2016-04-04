@@ -1,14 +1,6 @@
 <genres>
   <genre type="16">Movie</genre>
   <genre type="32">News</genre>
-<genre type="32">Community</genre>
-<genre type="32">Consumer</genre>
-<genre type="32">Environment</genre>
-<genre type="32">Interview</genre>
-<genre type="32">Newsmagazine</genre>
-<genre type="32">Public affairs</genre>
-<genre type="32">Politics</genre>
-<genre type="32">Weather</genre>
 <genre type="48">Animated</genre>
 <genre type="48">Anime</genre>
 <genre type="48">Comedy</genre>
@@ -58,7 +50,6 @@
   <genre type="64">Curling</genre>
   <genre type="64">Football</genre>
   <genre type="64">Drag racing</genre>
-  <genre type="48">Show</genre>
   <genre type="112">Art</genre>
 <genre type="128">Talk</genre>
 <genre type="128">Variety</genre>
