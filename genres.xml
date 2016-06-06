@@ -4,6 +4,7 @@
 <genre type="32">Newsmagazine</genre>
 <genre type="32">Talk</genre>
 <genre type="32">Entertainment</genre>
+<genre type="32">Bus./financial</genre>
 <genre type="32">Interview</genre>
 <genre type="32">Politics</genre>
 <genre type="32">Public Affairs</genre>
@@ -37,6 +38,7 @@
 <genre type="144">Home Improvement</genre>
 <genre type="144">Education</genre>
 <genre type="144">Documentary</genre>
+<genre type="144">Science</genre>
 <genre type="176">Special</genre>
 <genre type="48">Reality</genre>
 <genre type="48">Drama</genre>
@@ -61,4 +63,10 @@
 <genre type="48">Variety</genre>
 <genre type="48">War</genre>
 <genre type="48">Western</genre>
+<genre type="48">Game Show</genre>
+<genre type="128">Travel</genre>
+<genre type="128">Biography</genre>
+<genre type="128">Community</genre>
+<genre type="160">Fashion</genre>
+<genre type="160">Cooking</genre>
 </genres>
